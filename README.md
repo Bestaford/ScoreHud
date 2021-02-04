@@ -1,6 +1,10 @@
 <img align="right" widht="auto" height="260" src="https://github.com/JackMD/ScoreHud/blob/master/meta/ScoreHud.PNG" alt="ScoreHud Banner">
 
 >## Notice: <br />
+>**6.0 release**
+>- Ifera just forgot to compile this plugin with all its dependencies on poggit.
+>- This is compiled, working 6.0 version with libs
+>
 >**Backwards Incompatible Update**
 >- Starting from **ScoreHud version 6.0**, addons are no longer supported. <br />
 >- All old addons will stop working on versions 6.0 and above. <br />
@@ -10,9 +14,9 @@
 
 # ScoreHud
 
-| HitCount | License | Poggit | Release |
-|:--:|:--:|:--:|:--:|
-|[![HitCount](http://hits.dwyl.io/JackMD/ScoreHud.svg)](http://hits.dwyl.io/JackMD/ScoreHud)|[![GitHub license](https://img.shields.io/github/license/Ifera/ScoreHud.svg)](https://github.com/Ifera/ScoreHud/blob/master/LICENSE)|[![Poggit-CI](https://poggit.pmmp.io/ci.shield/Ifera/ScoreHud/ScoreHud)](https://poggit.pmmp.io/ci/Ifera/ScoreHud/ScoreHud)|[![](https://poggit.pmmp.io/shield.state/ScoreHud)](https://poggit.pmmp.io/p/ScoreHud)|
+| ![Download icon](https://storage.googleapis.com/material-icons/external-assets/v4/icons/svg/ic_file_download_black_18px.svg) PHAR |
+| :---: |
+| [![Download](https://img.shields.io/badge/download-latest-blue.svg)](https://github.com/Bestaford/ScoreHud/releases/download/6.0/ScoreHud_v6.0.0.phar)
 
 ### A highly customizable plugin to add Scoreboards on your Minecraft Bedrock Server.
 
