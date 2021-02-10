@@ -13,11 +13,9 @@
 >- **Please read FAQs below.**
 
 # ScoreHud
-
-| ![Download icon](https://storage.googleapis.com/material-icons/external-assets/v4/icons/svg/ic_file_download_black_18px.svg) PHAR |
+| Release |
 | :---: |
-| [![Download](https://img.shields.io/badge/download-latest-blue.svg)](https://github.com/Bestaford/ScoreHud/releases/download/6.0/ScoreHud_v6.0.0.phar)
-
+| [![Download](https://img.shields.io/github/downloads/Bestaford/ScoreHud/latest/total)](https://github.com/Bestaford/ScoreHud/releases/download/6.0/ScoreHud_v6.0.0.phar)
 ### A highly customizable plugin to add Scoreboards on your Minecraft Bedrock Server.
 
 ### Features:
